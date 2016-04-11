@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 ## GitLab: self hosted Git management software
 
 ![logo](https://raw.github.com/gitlabhq/gitlabhq/master/public/gitlab_logo.png)
